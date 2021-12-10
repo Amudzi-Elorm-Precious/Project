@@ -1,0 +1,39 @@
+header{
+    background-color:burlywood;
+    height:118px;
+    width:1024px;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+}
+h1{
+    font-size: 80px;
+    color: rgba(187, 255, 0, 0.842);
+}
+h2{
+    font-size:30px;
+    background-color: rgba(21, 128, 0, 0.822);
+    color: white;
+}
+
+
+nav{
+    background-color: whitesmoke;
+    height:400px;
+    width:1024px;
+}
+
+main{
+    background-color: whitesmoke;
+    height:900px;
+    width:1024px;
+}
+
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width:1024px;
+}
+
+body{
+
+}
